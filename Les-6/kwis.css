@@ -1,0 +1,33 @@
+body {
+	margin:0 250px 0 250px;
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+	background-color:red;
+	color:#FFFFFF;
+}
+
+h1 {
+	text-align:center;
+	text-decoration:underline;
+	font-weight: bolder;
+	letter-spacing: 4px;
+	
+}
+
+h3 {
+	letter-spacing: 1px;
+	
+}
+
+.Answer {
+	font-size:x-large;
+	font-weight:bold;
+	color:red;
+	padding: 1px 3px 1px 3px;
+	word-spacing: 3px;
+	letter-spacing: 2px;
+	
+}
+
+.Answer:hover {
+	color:#F7FE2E;
+}
