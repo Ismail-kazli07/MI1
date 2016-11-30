@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, Roboto. Geneva, Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+
+p, h1 {
+    text-align: center;
+    color: gray;
+}
+
+h1{
+    color: yellow;
+}
+
+h1{
+    color: red;
+    font-size: 1.2em;
+    font-variant: small-caps;
+}
+
+.test{
+    color: purple;
+}
+
+Kleuren 
+        <span style="color:#70BFFF">
+        <body style="background:#70BFFF">
+        <table style="background:#70BFFF">
+        <a style="color:#70BFFF">
+links naar alle kleuren 
+http://www.w3schools.com/colors/colors_names.asp
+http://paletton.com/
