@@ -1,0 +1,44 @@
+.Divven { 
+	width: 600px;
+	height:600px;
+	left:100px;
+	top:100px;
+	background-color:blue;
+	position:absolute;
+}
+
+.Div-1 { 
+	width:200px;
+	height: 200px;
+	top:100px;
+	left:100px;
+	background-color:white;
+	position:absolute;
+}
+
+.Div-2 { 
+	width:200px;
+	height: 200px;
+	top:100px;
+	right:100px;
+	background-color:green;
+	position:absolute;
+}
+
+.Div-3 {
+	width:200px;
+	height: 200px;
+	bottom:100px; 
+	right:100px;
+	background-color:yellow;
+	position:absolute;
+}
+
+.Div-4 {
+	width:200px;
+	height: 200px;
+	bottom:100px; 
+	left:100px;
+	background-color:red;
+	position:absolute;
+}
